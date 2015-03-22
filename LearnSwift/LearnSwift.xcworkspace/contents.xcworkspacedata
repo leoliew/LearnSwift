@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OCAndSwift/OCAndSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L11HelloIOS/L11HelloIOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L10OO/L10OO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L09Funs/L09Funs.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L08Flow/L08Flow.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L07Loop/L07Loop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L06Dict/L06Dict.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05Array/L05Array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L04Strings/L04Strings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L03Types/L03Types.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L02VarsAndConstants/L02VarsAndConstants.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L01HelloSwift/L01HelloSwift.xcodeproj">
+   </FileRef>
+</Workspace>

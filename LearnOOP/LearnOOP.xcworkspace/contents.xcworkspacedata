@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:L06NameSpace/L06NameSpace.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05Protocol/L05Protocol.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L01UsingClass/L01UsingClass.xcodeproj">
+   </FileRef>
+</Workspace>
