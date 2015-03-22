@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:L03TApp/L03TApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L02PBApp/L02PBApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L01MDApp/L01MDApp.xcodeproj">
+   </FileRef>
+</Workspace>
