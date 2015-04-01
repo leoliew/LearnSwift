@@ -233,6 +233,7 @@
 				B3A9F4D61AB6254700DC6E78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
