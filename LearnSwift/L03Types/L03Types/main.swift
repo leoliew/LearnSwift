@@ -54,10 +54,12 @@ while SurplusDate>=0 {}
 
 
 //4.字符串
-//4.1
-
-
-
+//4.1声明
+var sampleStr:String
+    //类型被推断为字符串
+var keyNote="someNote"
+//4.2字符串连接,通过 “＋” 连接起来
+sampleStr = "keyNote"+"is not null"
 
 
 

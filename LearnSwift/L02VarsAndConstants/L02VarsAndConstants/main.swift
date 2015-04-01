@@ -18,10 +18,11 @@ let Constr = "i love my contry"
 //3.因声明 str 的时候指定了是 string 类型，因此不能改变值的类型，此处会编译报错
 //str = 1024
 
+//4.会编译报错，不能修改常量
+//Constr = "2028"
 
-//Constr = "2028" //4.会编译报错，不能修改常量
-
-//var temCount:Int32 = 2.8 //5.会编译报错，类型字面量和所标注的类型不同
+//5.会编译报错，类型字面量和所标注的类型不同
+//var temCount:Int32 = 2.8
 
 println(Constr)
 
